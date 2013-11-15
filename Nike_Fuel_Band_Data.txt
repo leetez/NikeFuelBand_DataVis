@@ -1,0 +1,1786 @@
+{
+  "data": [
+    {
+      "activityId": "ef8b61ed-37df-425c-8ec0-25752e8f1d5c",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-05-07T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 2027,
+        "fuel": 6138,
+        "distance": 13.503122329711914,
+        "steps": 17149,
+        "duration": "10:23:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "f69fb7ce-7210-4959-ba96-57c538d3528a",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-05-06T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1540,
+        "fuel": 4455,
+        "distance": 11.405488967895508,
+        "steps": 14485,
+        "duration": "3:20:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "bfbf06d1-2169-4b79-a491-54bf0d27921c",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-05-03T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 853,
+        "fuel": 2586,
+        "distance": 5.426760673522949,
+        "steps": 6892,
+        "duration": "2:45:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "389175f1-d43d-4d78-bde8-2046c7e9794d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-24T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 41,
+        "fuel": 119,
+        "distance": 0.5629910230636597,
+        "steps": 715,
+        "duration": "0:18:00.000"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE",
+          "tagValue": "NOTE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "9578442b-6fec-4f0e-8160-8aee4d23eac8",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-23T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 550,
+        "fuel": 1644,
+        "distance": 4.13936185836792,
+        "steps": 5257,
+        "duration": "6:50:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "9ed2d15f-7c2c-437e-9df2-7beab962af28",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-22T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 662,
+        "fuel": 1946,
+        "distance": 5.907862186431885,
+        "steps": 7503,
+        "duration": "5:23:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "134d9b76-b871-4558-80b0-bd6f07409d32",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-21T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 869,
+        "fuel": 2620,
+        "distance": 4.728336811065674,
+        "steps": 6005,
+        "duration": "11:35:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "426e3c00-16e5-42db-b574-14dc454eaaaa",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-20T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1507,
+        "fuel": 4490,
+        "distance": 14.177924156188965,
+        "steps": 18006,
+        "duration": "11:23:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2a6777de-41ae-49d4-87f4-6fffc57a4b3b",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-19T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1395,
+        "fuel": 4171,
+        "distance": 11.062970161437988,
+        "steps": 14050,
+        "duration": "12:06:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "f5b75d6a-807f-4ea5-92a2-a31d78193b7a",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-18T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 450,
+        "fuel": 1329,
+        "distance": 5.015738010406494,
+        "steps": 6370,
+        "duration": "2:31:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "76e73c1b-a53d-4f95-839e-59deb3576432",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-17T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1280,
+        "fuel": 3782,
+        "distance": 11.626748085021973,
+        "steps": 14766,
+        "duration": "10:29:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "82916290-3758-4bc2-a9b8-262266416620",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-16T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 5,
+        "fuel": 13,
+        "distance": 0.033070798963308334,
+        "steps": 42,
+        "duration": "0:04:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "4c0162f9-e556-4584-86f3-4ede7ec6bbc9",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-15T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1887,
+        "fuel": 5670,
+        "distance": 14.208633422851562,
+        "steps": 18045,
+        "duration": "11:41:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "c6047f20-ea9f-4761-86e5-3c148311eb79",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-14T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 2415,
+        "fuel": 7223,
+        "distance": 20.53696632385254,
+        "steps": 26082,
+        "duration": "11:39:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "6c88b8ca-e35f-47de-a37b-a37c493b8242",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-13T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1568,
+        "fuel": 4685,
+        "distance": 13.174777030944824,
+        "steps": 16732,
+        "duration": "11:07:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d5a37998-baeb-406d-a350-ac56cab40061",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-12T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1113,
+        "fuel": 3334,
+        "distance": 8.422030448913574,
+        "steps": 10696,
+        "duration": "11:02:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "97feb822-6b6d-493f-a9a1-d9bdf55c7b08",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-11T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1141,
+        "fuel": 3423,
+        "distance": 8.69919490814209,
+        "steps": 11048,
+        "duration": "11:30:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "db09beb8-eeea-4b2e-b1c6-074f533d0fe9",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-10T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1665,
+        "fuel": 4977,
+        "distance": 14.255876541137695,
+        "steps": 18105,
+        "duration": "12:08:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d09a6740-347f-458c-8572-8c06706786e0",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-09T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 114,
+        "fuel": 342,
+        "distance": 0.7669275999069214,
+        "steps": 974,
+        "duration": "0:33:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a236683c-9655-47c2-8325-8dbc5e85ec10",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-08T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1091,
+        "fuel": 3217,
+        "distance": 12.159818649291992,
+        "steps": 15443,
+        "duration": "7:38:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "973182f6-8270-484a-81da-74e318a6fc1a",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-07T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1820,
+        "fuel": 5440,
+        "distance": 15.43067741394043,
+        "steps": 19597,
+        "duration": "11:55:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "af3d9bea-2911-4871-9888-4e83a580c79a",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-06T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1006,
+        "fuel": 3000,
+        "distance": 7.542504787445068,
+        "steps": 9579,
+        "duration": "11:55:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "b72c7fe5-3e02-43f8-818a-0b4c52299417",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-05T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1236,
+        "fuel": 3684,
+        "distance": 10.9102144241333,
+        "steps": 13856,
+        "duration": "10:52:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "59374e0d-517a-4ede-8a1f-1535e45cf428",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-04T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1721,
+        "fuel": 5121,
+        "distance": 15.725165367126465,
+        "steps": 19971,
+        "duration": "10:13:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "1c50cb23-3211-40b6-81b9-4d0e11253a1b",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-03T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1198,
+        "fuel": 3569,
+        "distance": 10.127538681030273,
+        "steps": 12862,
+        "duration": "11:36:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "cb86a0c3-c551-4362-861e-9f2e8ba22ecc",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-02T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1680,
+        "fuel": 4914,
+        "distance": 17.25823402404785,
+        "steps": 21918,
+        "duration": "11:14:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d5c7f575-68af-418c-9696-9cd7fae08602",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-07-01T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1081,
+        "fuel": 3207,
+        "distance": 10.166909217834473,
+        "steps": 12912,
+        "duration": "9:05:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "1e595ebc-6b88-46b4-9c18-b0f1c02d5d55",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-30T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1931,
+        "fuel": 5593,
+        "distance": 23.391292572021484,
+        "steps": 29707,
+        "duration": "8:56:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "384cc903-2863-4b1a-81df-ee0957f55abe",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-29T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1045,
+        "fuel": 3115,
+        "distance": 8.881872177124023,
+        "steps": 11280,
+        "duration": "11:05:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "bd235d3a-8c07-4813-bf5d-e8bc487f8353",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-28T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1471,
+        "fuel": 4400,
+        "distance": 12.316511154174805,
+        "steps": 15642,
+        "duration": "12:14:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a842c89a-52a9-49e5-a44d-5821af464e40",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-27T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1487,
+        "fuel": 4422,
+        "distance": 12.304699897766113,
+        "steps": 15627,
+        "duration": "12:16:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "0758710f-6d86-462d-bdbe-8976c002e5f4",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-26T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1218,
+        "fuel": 3644,
+        "distance": 10.222814559936523,
+        "steps": 12983,
+        "duration": "10:29:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "fc750cb9-437c-441b-9f96-25512d1a729d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-25T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1244,
+        "fuel": 3724,
+        "distance": 10.29053020477295,
+        "steps": 13069,
+        "duration": "9:37:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ac86a3d9-71a5-434b-bd1b-b6e9833def0f",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-24T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1194,
+        "fuel": 3483,
+        "distance": 15.060599327087402,
+        "steps": 19127,
+        "duration": "8:23:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "f1c4dc9f-7ea0-49a6-b9a1-ba96f36cfcb0",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-23T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 49,
+        "fuel": 145,
+        "distance": 0.4023613929748535,
+        "steps": 511,
+        "duration": "0:20:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "4d167750-f994-446c-9646-797f91f11f2a",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-22T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 863,
+        "fuel": 2581,
+        "distance": 7.524394512176514,
+        "steps": 9556,
+        "duration": "10:39:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2eed9cd5-8cd4-4cf0-baaa-527e039ac21e",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-21T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 892,
+        "fuel": 2662,
+        "distance": 7.126757621765137,
+        "steps": 9051,
+        "duration": "10:46:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "c01e8b9b-d41a-4e81-b15a-dc8ba10be878",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-20T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1433,
+        "fuel": 4293,
+        "distance": 11.522024154663086,
+        "steps": 14633,
+        "duration": "11:19:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "1854be39-59c5-4441-9c6b-2ecf6e608d3a",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-19T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1195,
+        "fuel": 3585,
+        "distance": 8.918879508972168,
+        "steps": 11327,
+        "duration": "10:46:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "5e1979bb-c329-415d-99b3-418af5d29929",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-18T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 332,
+        "fuel": 956,
+        "distance": 3.7637720108032227,
+        "steps": 4780,
+        "duration": "0:55:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7b0ba461-1773-40c8-8904-3a0e07c82447",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-17T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1054,
+        "fuel": 3105,
+        "distance": 12.245644569396973,
+        "steps": 15552,
+        "duration": "8:01:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "01f5aa87-73de-4111-8c33-6e59ed1604dc",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-16T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 2113,
+        "fuel": 6250,
+        "distance": 21.531452178955078,
+        "steps": 27345,
+        "duration": "13:57:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "685d36a4-5d90-4515-899e-17596378e48e",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-15T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1314,
+        "fuel": 3941,
+        "distance": 10.273995399475098,
+        "steps": 13048,
+        "duration": "12:26:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "055e5c93-8b4e-4471-a0a8-3e21d201c61d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-14T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1765,
+        "fuel": 5226,
+        "distance": 15.945637702941895,
+        "steps": 20251,
+        "duration": "12:50:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d02a7df3-f5e4-4d3a-8095-935ed64208d3",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-13T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 0,
+        "fuel": 0,
+        "distance": 0,
+        "steps": 0,
+        "duration": "0:00:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "8e9b393a-7445-4b27-8994-ce158408d79f",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-12T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1,
+        "fuel": 2,
+        "distance": 0,
+        "steps": 0,
+        "duration": "0:02:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7544ba11-a2e1-4681-860b-86d5e995a656",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-11T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1266,
+        "fuel": 3769,
+        "distance": 10.756670951843262,
+        "steps": 13661,
+        "duration": "11:45:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2aafe391-920e-4153-8a0d-dbea506bc0d5",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-10T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1516,
+        "fuel": 4492,
+        "distance": 14.377923965454102,
+        "steps": 18260,
+        "duration": "12:25:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "4a729323-cf72-4d8c-ac41-66fe627ac666",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-09T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1679,
+        "fuel": 4978,
+        "distance": 14.895245552062988,
+        "steps": 18917,
+        "duration": "12:13:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "cb895589-7289-4f6c-aeab-5c1edc040f36",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-08T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1547,
+        "fuel": 4595,
+        "distance": 13.963751792907715,
+        "steps": 17734,
+        "duration": "12:17:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "386429bd-d8dc-434e-890d-aa9cd7e9ad63",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-07T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1554,
+        "fuel": 4608,
+        "distance": 14.26611328125,
+        "steps": 18118,
+        "duration": "12:14:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "f8818096-152e-44ed-9f7a-8fc896efe567",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-06T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1393,
+        "fuel": 4171,
+        "distance": 10.922025680541992,
+        "steps": 13871,
+        "duration": "12:22:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "532722aa-ab12-4b96-ab49-63d482b3379c",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-05T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1314,
+        "fuel": 3946,
+        "distance": 10.096830368041992,
+        "steps": 12823,
+        "duration": "11:03:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ec56ba99-7ed8-4259-ab16-f58bef6a3245",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-04T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 46,
+        "fuel": 137,
+        "distance": 0.4125975966453552,
+        "steps": 524,
+        "duration": "0:19:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "362a4993-c1e5-4941-b7b5-0e6d48068797",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-03T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 991,
+        "fuel": 2954,
+        "distance": 8.303133010864258,
+        "steps": 10545,
+        "duration": "9:31:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "25598aa8-24f1-439d-8793-7fffc894c0ff",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-02T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1247,
+        "fuel": 3685,
+        "distance": 12.17792797088623,
+        "steps": 15466,
+        "duration": "10:08:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "b0597c79-1410-4246-a041-7dd8cd94e912",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-06-01T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1516,
+        "fuel": 4528,
+        "distance": 13.250367164611816,
+        "steps": 16828,
+        "duration": "13:25:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d9f39fda-f862-4f60-b3e0-73be2695055c",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-31T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1507,
+        "fuel": 4493,
+        "distance": 13.310997009277344,
+        "steps": 16905,
+        "duration": "11:54:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "e854cab8-7fc2-46e9-bea3-5d75a431539d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-30T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1521,
+        "fuel": 4556,
+        "distance": 11.830684661865234,
+        "steps": 15025,
+        "duration": "13:17:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d89dde1b-6d83-44a9-bd82-6e0c8ead591e",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-29T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1984,
+        "fuel": 5882,
+        "distance": 17.761381149291992,
+        "steps": 22557,
+        "duration": "11:29:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7a89ae83-9aa1-45b5-847f-fffb12b62e2a",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-28T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1609,
+        "fuel": 4821,
+        "distance": 13.58816146850586,
+        "steps": 17257,
+        "duration": "9:01:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "adf006b8-0592-490b-bfbc-e62f5eca16f1",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-27T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1907,
+        "fuel": 5658,
+        "distance": 18.307050704956055,
+        "steps": 23250,
+        "duration": "12:55:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "22b7c250-6374-470c-9846-21fbfa185e94",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-26T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1399,
+        "fuel": 4112,
+        "distance": 15.2582368850708,
+        "steps": 19378,
+        "duration": "9:04:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ce611e44-f8bb-473f-8c27-4cbbcfd13630",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-25T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 2618,
+        "fuel": 7801,
+        "distance": 24.33144760131836,
+        "steps": 30901,
+        "duration": "13:01:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7fd3c39e-cc51-4f17-bcf4-191d92a55b77",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-24T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1203,
+        "fuel": 3582,
+        "distance": 9.747224807739258,
+        "steps": 12379,
+        "duration": "11:44:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "feca576c-27b6-4039-8a04-b1ec8d7d2b26",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-23T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1666,
+        "fuel": 5004,
+        "distance": 12.627533912658691,
+        "steps": 16037,
+        "duration": "12:55:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2af404e7-c8b1-43ee-8f28-0e28c8a54345",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-22T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 3349,
+        "fuel": 10008,
+        "distance": 27.685771942138672,
+        "steps": 35161,
+        "duration": "13:19:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a826bea5-8d19-4ad0-a334-5744e0e78066",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-21T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1748,
+        "fuel": 5164,
+        "distance": 17.495241165161133,
+        "steps": 22219,
+        "duration": "11:56:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "c8ac6d0c-304c-4f18-953e-cd2768fa1713",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-20T04:00:00Z",
+      "activityTimeZone": "America/Detroit",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 611,
+        "fuel": 1840,
+        "distance": 4.093692779541016,
+        "steps": 5199,
+        "duration": "7:06:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "61d2e95c-cbfa-433a-9a3f-fc6dfbe590a7",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-19T04:00:00Z",
+      "activityTimeZone": "America/Detroit",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 116,
+        "fuel": 352,
+        "distance": 0.5984240174293518,
+        "steps": 760,
+        "duration": "1:57:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "b47bfbf2-9241-4d60-970b-236aa60af68e",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-18T04:00:00Z",
+      "activityTimeZone": "America/Detroit",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 844,
+        "fuel": 2506,
+        "distance": 7.5558905601501465,
+        "steps": 9596,
+        "duration": "9:10:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "3eb928d5-378a-4036-a80c-46613d4dd438",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-17T04:00:00Z",
+      "activityTimeZone": "America/Detroit",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 552,
+        "fuel": 1662,
+        "distance": 3.9212520122528076,
+        "steps": 4980,
+        "duration": "6:05:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "9a300c3a-7940-4cdd-8b1b-0e7595446e02",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-16T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1728,
+        "fuel": 5136,
+        "distance": 14.532254219055176,
+        "steps": 18456,
+        "duration": "11:50:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "705e293e-3940-48af-b2e0-f97082d4175d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-15T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1743,
+        "fuel": 5207,
+        "distance": 15.399969100952148,
+        "steps": 19558,
+        "duration": "13:02:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ad55ce9a-6e0b-477f-ac90-5b4960aab14f",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-14T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 2079,
+        "fuel": 6195,
+        "distance": 17.715713500976562,
+        "steps": 22499,
+        "duration": "12:30:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "c2b65d93-52e1-460a-804b-cb1ef3b15c9d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-13T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1596,
+        "fuel": 4672,
+        "distance": 18.429096221923828,
+        "steps": 23405,
+        "duration": "10:41:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "1d2c4391-d6fb-4709-b5f7-7e1ece7a0a91",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-12T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1572,
+        "fuel": 4680,
+        "distance": 13.903908729553223,
+        "steps": 17658,
+        "duration": "13:11:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ad0193d9-b430-44f9-84df-245e95c3f3bf",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-11T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1408,
+        "fuel": 4218,
+        "distance": 10.920450210571289,
+        "steps": 13869,
+        "duration": "12:13:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "0653b572-c2b4-42f6-9e70-26b867ce45e9",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-10T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 2203,
+        "fuel": 6495,
+        "distance": 19.457441329956055,
+        "steps": 24711,
+        "duration": "12:15:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "fd541033-ca92-4a53-8d87-273408557b2b",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-09T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1378,
+        "fuel": 4133,
+        "distance": 10.429900169372559,
+        "steps": 13246,
+        "duration": "12:28:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "6121c1be-cd8b-4587-8c0e-9a1feab42fc6",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-08T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1346,
+        "fuel": 4034,
+        "distance": 10.485018730163574,
+        "steps": 13316,
+        "duration": "10:17:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2880f108-4b62-4e8c-9d53-d5dbb9d479ae",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-07T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1739,
+        "fuel": 5197,
+        "distance": 14.765324592590332,
+        "steps": 18752,
+        "duration": "11:43:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "c7bb5195-d6c2-437c-8083-1c582899ef56",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-06T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1827,
+        "fuel": 5343,
+        "distance": 20.136180877685547,
+        "steps": 25573,
+        "duration": "10:38:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "07e1fd8b-b5b2-4c46-b1ff-234c716e2a10",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-05T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1785,
+        "fuel": 5260,
+        "distance": 17.999963760375977,
+        "steps": 22860,
+        "duration": "10:39:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "082e13e1-fe62-4297-8a27-e25bc5236d8d",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-04T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 800,
+        "fuel": 2394,
+        "distance": 6.084239959716797,
+        "steps": 7727,
+        "duration": "8:21:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "5df82035-f422-4351-9c44-4d50cceed12e",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-03T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1394,
+        "fuel": 4113,
+        "distance": 12.896037101745605,
+        "steps": 16378,
+        "duration": "10:44:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "975f18dd-de26-4926-88e0-232915c1a40f",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-02T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1572,
+        "fuel": 4655,
+        "distance": 14.624380111694336,
+        "steps": 18573,
+        "duration": "12:43:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ae8115ef-716d-4d58-9233-84726487e752",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-05-01T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 776,
+        "fuel": 2303,
+        "distance": 7.474788188934326,
+        "steps": 9493,
+        "duration": "7:18:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a48834d1-d365-460e-9ca3-391ac06c8c25",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-30T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 941,
+        "fuel": 2800,
+        "distance": 8.089747428894043,
+        "steps": 10274,
+        "duration": "10:10:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "5b97fe8d-23cd-4558-8683-d617e169b7f8",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-29T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1227,
+        "fuel": 3619,
+        "distance": 13.06139087677002,
+        "steps": 16588,
+        "duration": "8:20:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "5e17081b-8048-4ca5-a66d-c9f34f5a356f",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-28T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1,
+        "fuel": 4,
+        "distance": 0,
+        "steps": 0,
+        "duration": "0:03:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "11a3ab93-130e-4cbd-abbb-0767e930bf39",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-27T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1185,
+        "fuel": 3454,
+        "distance": 13.233044624328613,
+        "steps": 16806,
+        "duration": "3:56:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "77f3f663-1291-4ebc-83be-e55f01057fd6",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-26T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1047,
+        "fuel": 3100,
+        "distance": 10.117302894592285,
+        "steps": 12849,
+        "duration": "8:56:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "56685cd2-3d7d-4d09-ae18-c20a2f01d52c",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-25T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1152,
+        "fuel": 3438,
+        "distance": 9.665334701538086,
+        "steps": 12275,
+        "duration": "10:18:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "43fb5d7a-fbce-46a6-9a49-a3e3103c0603",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-24T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1554,
+        "fuel": 4620,
+        "distance": 13.492886543273926,
+        "steps": 17136,
+        "duration": "14:13:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "bde16df6-30ce-4b21-a663-48ac7c6b31a0",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-23T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1143,
+        "fuel": 3417,
+        "distance": 9.170060157775879,
+        "steps": 11646,
+        "duration": "11:37:00.000"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE",
+          "tagValue": "I hate my job."
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "15706413-943d-4710-8e34-b433bfb25144",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-22T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1309,
+        "fuel": 3895,
+        "distance": 11.31100082397461,
+        "steps": 14365,
+        "duration": "8:42:00.000"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE",
+          "tagValue": "Tired from flying."
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "abce709e-5949-4480-9293-c1d97b543e74",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-21T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1214,
+        "fuel": 3634,
+        "distance": 9.555886268615723,
+        "steps": 12136,
+        "duration": "11:29:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "6a3e1a18-55d4-45e4-b5a7-a0c24f6dc0f3",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-20T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1622,
+        "fuel": 4753,
+        "distance": 18.384214401245117,
+        "steps": 23348,
+        "duration": "11:44:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "e81938a4-1395-4254-b5fc-2a367160eda4",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-19T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1662,
+        "fuel": 4913,
+        "distance": 16.766895294189453,
+        "steps": 21294,
+        "duration": "12:26:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7b7ee25f-4a00-4684-87be-718da1427fae",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-18T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1543,
+        "fuel": 4585,
+        "distance": 14.111783027648926,
+        "steps": 17922,
+        "duration": "12:23:00.000"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE",
+          "tagValue": "NOTE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "GREAT"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "bb3e0eb2-4d62-4e2c-b570-bc76564b2e14",
+      "activityType": "ALL_DAY",
+      "startTime": "2012-04-17T04:00:00Z",
+      "activityTimeZone": "America/New_York",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1031,
+        "fuel": 3039,
+        "distance": 9.56139850616455,
+        "steps": 12143,
+        "duration": "8:16:00.000"
+      },
+      "tags": [
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "NOTE",
+          "tagValue": "NOTE"
+        }
+      ],
+      "metrics": []
+    }
+  ],
+  "paging": {
+    "next": "/me/sport/activities/FUELBAND?access_token=1512536b9cb01e16421eb62acc2b311d&experienceType=FUELBAND&count=400&startDate=2012-01-01&endDate=2013-09-01&offset=401"
+  }
+}
